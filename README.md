@@ -3,7 +3,7 @@
 <h3 align="center">Adaptable Software Engineer ready to support operations from conception</h3>
 <div><img align="center" src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="" height=20% width=100% /></div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=infinity-962&label=Profile%20views&color=0e75b6&style=flat" alt="infinity-962" /> </p>
+<p align="center"> <img src="[https://komarev.com/ghpvc/?username=infinity-962&label=Profile%20views&color=0e75b6&style=flat](https://camo.githubusercontent.com/548076e649d9b7bd465a97b67c6d8d50a25afd63b6d24ad5f7cabcc22f0a1cc6/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f73616761722d76697261646979612f636f756e742e737667)" alt="infinity-962" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
