@@ -2,6 +2,7 @@
 <h1 align="center">Hi there 👋, I'm Sahil</h1>
 <h3 align="center">Adaptable Software Engineer ready to support operations from conception</h3>
 <div><img align="center" src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="" height=20% width=100% /></div>
+<br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=infinity-962&label=Profile%20views&color=0e75b6&style=flat" alt="infinity-962" /> </p>
 
