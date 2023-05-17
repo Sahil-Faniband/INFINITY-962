@@ -6,6 +6,9 @@
 <br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=infinity-962&label=Profile%20views&color=0e75b6&style=flat" alt="infinity-962" /> </p>
+<h3 align="left">About me:</h3>
+<p align="center">I'm Sahil from India, and I'm currently pursuing B.E in Information Science and Engineering at KLS Gogte Institute of Technology in Belagavi, India.
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,7 +30,7 @@
 
 
 
-I'm Sahil from India, and I'm currently pursuing B.E in Information Science and Engineering at KLS Gogte Institute of Technology in Belagavi, India.
+
 
 
 
