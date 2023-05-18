@@ -1,13 +1,13 @@
 
 
 <img align="center" src="http://ltecnologia.com.br/blog/wp-content/webp-express/webp-images/uploads/2015/02/helloworld.png.webp" alt="" width=100%/>
-<h1 align="center">Hi there 👋, I'm Sahil</h1>
+<h1 align="center">Hi there 👋, I'm Sahil from India</h1>
 <h3 align="center">Adaptable Software Engineer ready to support operations from conception</h3>
 <br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=infinity-962&label=Profile%20views&color=0e75b6&style=flat" alt="infinity-962" /> </p>
 <h3 align="left">About me:</h3>
-<p align="left">I'm Sahil from India, and I'm currently pursuing B.E in Information Science and Engineering at KLS Gogte Institute of Technology in Belagavi, India.
+<p align="left">I'm currently pursuing B.E in Information Science and Engineering at KLS Gogte Institute of Technology in Belagavi, India.
 </p>
 
 <h3 align="left">Connect with me:</h3>
