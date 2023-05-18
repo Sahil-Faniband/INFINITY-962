@@ -1,6 +1,6 @@
 
 
-<div><center><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHH5knZ9kJdILZPCj60z_xNH3xBxLEv6ZGAQ&usqp=CAU" alt="" width="90" height="50" /></center></div>
+<div><center><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHH5knZ9kJdILZPCj60z_xNH3xBxLEv6ZGAQ&usqp=CAU" alt="" width=100% height=20% /></center></div>
 <h1 align="center">Hi there 👋, I'm Sahil</h1>
 <h3 align="center">Adaptable Software Engineer ready to support operations from conception</h3>
 <br>
