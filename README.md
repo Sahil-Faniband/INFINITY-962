@@ -1,6 +1,6 @@
 
 
-<img align="center" src="https://io-oi.me/images/hello-world.jpg" alt="" width="1000"/>
+<img align="center" src="https://miro.medium.com/v2/resize:fit:1400/1*veRna0Vbw1_4OUnzW9rSzA.jpeg" alt="" width="1000"/>
 <h1 align="center">Hi there 👋, I'm Sahil</h1>
 <h3 align="center">Adaptable Software Engineer ready to support operations from conception</h3>
 <br>
