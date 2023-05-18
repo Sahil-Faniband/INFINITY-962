@@ -1,6 +1,6 @@
 
 
-<div><center><img align="center" src="https://ucarecdn.com/66fc354e-3c1d-471b-a8c6-d0ca18d8dd54/" alt="" width=100% height=5% /></center></div>
+<div><center><img align="center" src="https://ucarecdn.com/66fc354e-3c1d-471b-a8c6-d0ca18d8dd54/" alt="" width=10% height=5% /></center></div>
 <h1 align="center">Hi there 👋, I'm Sahil</h1>
 <h3 align="center">Adaptable Software Engineer ready to support operations from conception</h3>
 <br>
