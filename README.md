@@ -1,6 +1,6 @@
 
 
-<div><img align="center" src="https://miro.medium.com/v2/resize:fit:1024/0*4ty0Adbdg4dsVBo3.png" alt="" height=20% width=100% /></div>
+<div><img align="center" src="https://miro.medium.com/v2/resize:fit:1024/0*4ty0Adbdg4dsVBo3.png" alt="" height=15% width=90% /></div>
 <h1 align="center">Hi there 👋, I'm Sahil</h1>
 <h3 align="center">Adaptable Software Engineer ready to support operations from conception</h3>
 <br>
