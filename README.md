@@ -25,9 +25,8 @@
 <br>
 <br>
 <br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=infinity-962&show_icons=true&locale=en" alt="infinity-962" /></p>
-<br>
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infinity-962&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infinity-962&show_icons=true&theme=light#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=infinity-962&show_icons=true&locale=en" alt="infinity-962" /></p>
+<br>
