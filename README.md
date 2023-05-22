@@ -20,7 +20,7 @@
      <a href="https://instagram.com/@sahil_faniband" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@sahil_faniband" height="30" width="40" /></a>
 </p>
 <br>
-<img align="right" src="https://universal.detoxifiedsoul.com/wp-content/uploads/2022/12/web-design-gif-janakpuri.gif" alt="" width="350"/>
+<img align="right" src="https://pin.it/6gekvAH" alt="" width="350"/>
 
 <br>
 
