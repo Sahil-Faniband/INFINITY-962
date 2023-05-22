@@ -20,7 +20,7 @@
      <a href="https://instagram.com/@sahil_faniband" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@sahil_faniband" height="30" width="40" /></a>
 </p>
 <br>
-<img align="right" src="https://pin.it/6gekvAH" alt="" width="350"/>
+<img align="right" src="https://i.pinimg.com/originals/bb/37/5c/bb375cdd655184ca2715ac5059e73651.gif" alt="" width="350"/>
 
 <br>
 
