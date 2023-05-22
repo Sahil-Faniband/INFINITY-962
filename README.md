@@ -1,9 +1,7 @@
-
-
-<img align="center" src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877" alt="" width=100%/>
 <h1 align="center">Hi there 👋, I'm Sahil from India</h1>
 <h3 align="center">Adaptable Software Engineer ready to support operations from conception</h3>
-<br>
+
+<img align="center" src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877" alt="" width=30/>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=infinity-962&label=Profile%20views&color=0e75b6&style=flat" alt="infinity-962" /> </p>
 <h3 align="left">About me:</h3>
