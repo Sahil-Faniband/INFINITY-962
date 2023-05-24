@@ -22,7 +22,7 @@
 <hr>
 <br>
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=infinity-962" alt="infinity-962" /></a> </p>-->
-<img align="right" src="https://i.pinimg.com/originals/bb/37/5c/bb375cdd655184ca2715ac5059e73651.gif" alt="" width="500"/>
+<img align="right" src="https://i.pinimg.com/originals/bb/37/5c/bb375cdd655184ca2715ac5059e73651.gif" alt="" width="400"/>
 
 <br>
 
