@@ -28,8 +28,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=infinity-962&show_icons=true&locale=en&layout=compact" alt="infinity-962" /></p>
 <br>
-<br>
-<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=infinity-962&show_icons=true&locale=en" alt="infinity-962" /></p>
 <hr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=infinity-962&" alt="infinity-962" /></p>
