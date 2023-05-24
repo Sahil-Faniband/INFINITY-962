@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Sahil from India</h1>
 <h3 align="center">Adaptable Software Engineer ready to support operations from conception</h3>
-
+<hr>
 <img align="left" src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877" alt="" width="450"/>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=infinity-962&label=Profile%20views&color=0e75b6&style=flat" alt="infinity-962" /> </p>
@@ -19,13 +19,17 @@
      <a href="https://linkedin.com/in/sahil faniband" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil faniband" height="30" width="40" /></a>
      <a href="https://instagram.com/@sahil_faniband" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@sahil_faniband" height="30" width="40" /></a>
 </p>
+<hr>
 <br>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=infinity-962" alt="infinity-962" /></a> </p>-->
 <img align="right" src="https://i.pinimg.com/originals/bb/37/5c/bb375cdd655184ca2715ac5059e73651.gif" alt="" width="500"/>
 
 <br>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infinity-962&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infinity-962&show_icons=true&theme=light#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=infinity-962&show_icons=true&locale=en" alt="infinity-962" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=infinity-962&show_icons=true&locale=en&layout=compact" alt="infinity-962" /></p>
 <br>
+<br>
+<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=infinity-962&show_icons=true&locale=en" alt="infinity-962" /></p>
+<hr>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=infinity-962&" alt="infinity-962" /></p>
