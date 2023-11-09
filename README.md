@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=infinity-962&label=Profile%20views&color=0e75b6&style=flat" alt="infinity-962" /> </p>
 <h3 align="left">About me:</h3>
-<p align="left">- I'm currently pursuing B.E in Information Science and Engineering at KLS Gogte Institute of Technology in Belagavi, India.<br>- 
+<p align="left">- I'm currently pursuing B.E in Information Science and Engineering at KLS Gogte Institute of Technology in Belagavi, India.<br>- As a team player, I am always open to learning and taking up new challenges. I wish to use my technical skills to contribute to a team that works at scale and creates a positive impact on society.
 </p>
 
 
